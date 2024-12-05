@@ -1,3 +1,8 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/rsksmart/rootstock-dynamic/badge)](https://scorecard.dev/viewer/?uri=github.com/rsksmart/rootstock-dynamic)
+[![CodeQL](https://github.com/rsksmart/rskj/workflows/CodeQL/badge.svg)](https://github.com/rsksmart/rootstock-dynamic/actions?query=workflow%3ACodeQL)
+
+<img src="rootstock-logo.png" alt="RSK Logo" style="width:100%; height: auto;" />
+
 # Embedded Wallet in Rootstock using Dynamic
 
 > "Building the future of finance, one line of code at a time."
